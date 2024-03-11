@@ -13,7 +13,7 @@ for (let index = 0; index < 11; index++) {
     numSum += index;
     
     // Calcolo la media
-    numAverage = numSum / 10;
+    numAverage = numSum / index;
 }
 
 console.log(numSum)
